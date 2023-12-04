@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td valign="top"><img alt='Firulike' src='https://avatars.githubusercontent.com/u/152827455?s=200&v=4' width="100"/></td>
-    <td valign="top"><h1>Open Firulike</h1></td>
+    <td valign="top"><h1>Firulike</h1></td>
   </tr>
 </table>
 
